@@ -1,0 +1,30 @@
+{
+    "name": "ay4t/OYIndonesia",
+    "description": "Modul PHP untuk integrasi gateway pembayaran dengan OYIndonesia",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "codeigniter",
+        "codeigniter 4",
+        "OYIndonesia",
+        "Payment Gateway",
+        "indiega network"
+    ],
+    "homepage": "https://github.com/ay4t/OYIndonesia",
+    "authors": [
+        {
+            "name": "Ayatulloh Ahad R",
+            "email": "ayatulloh@indiega.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ay4t\\OYIndonesia\\": "src/"
+        }
+    },
+    "require-dev": {
+        "codeigniter4/codeigniter4-standard": "^1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
