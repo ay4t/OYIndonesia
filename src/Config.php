@@ -27,7 +27,7 @@ class Config
      * ApiKey dari OYIndonesia
      * @var string
      */
-    public $apiKey = 'cac87047-ae3c-463b-b0f2-e545ba853723';
+    public $apiKey = 'your_api_key';
 
     /**
      * $username
